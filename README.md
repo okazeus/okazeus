@@ -66,8 +66,6 @@
 
 ###
 
-[🌙 Dark Mode Graph](https://raw.githubusercontent.com/okazeus/okazeus/output/pacman-contribution-graph-dark.svg)  
-[☀️ Light Mode Graph](https://raw.githubusercontent.com/okazeus/okazeus/output/pacman-contribution-graph.svg)
 
 
 ###
